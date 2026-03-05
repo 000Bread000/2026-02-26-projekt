@@ -1,0 +1,11 @@
+To-Do / Feladatkezelő alkalmazás
+Funkciók:
+- Feladat hozzáadása, törlése
+- Státusz kezelés (kész / folyamatban)
+- Határidők kezelése
+- Adatok mentése fájlba vagy adatbázisba
+
+Extra:
+- Bejelentkezés
+- Prioritások
+- Statisztikák

@@ -1,0 +1,10 @@
+Egyszerű játék fejlesztése
+Példák:
+- Számkitalálós játék
+- Akasztófa
+- Kvízjáték
+
+Elvárások:
+- Menü
+- Hibakezelés
+- Eredmények mentése

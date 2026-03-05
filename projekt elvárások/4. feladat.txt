@@ -1,0 +1,8 @@
+Weboldal kisvállalkozásnak
+Feladat:
+- Bemutatkozó oldal
+- Kapcsolatfelvételi űrlap
+- Reszponzív megjelenés
+
+Technológiák:
+- HTML, CSS, JavaScript

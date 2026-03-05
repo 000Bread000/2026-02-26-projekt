@@ -1,0 +1,10 @@
+Iskolai jegykezelő rendszer
+Feladat:
+- Diákok jegyeinek rögzítése, módosítása
+- Átlag számítás tantárgyanként
+- Felhasználói jogosultság (tanár / diák)
+
+Technológiák:
+- Python
+- C# konzolos vagy grafikus alkalmazás
+- Webes verzió: HTML, CSS, JavaScript
