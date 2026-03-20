@@ -26,7 +26,13 @@ while True:
     
     if valasz == "1":
         nev = input("Feladat neve: ")
+        if not nev.strip():
+            print("Nem lett megadva feladat név.")
+            continue
         hatarido = input("Határidő (pl. 2026-03-05): ")
+        if not hatarido:
+            print("Nem lett megadva érvényes határidő!")
+            continue
         feladatok.append({"nev": nev, "hatarido": hatarido, "statusz": "folyamatban"})
         mentes(feladatok)
         print("Feladat hozzáadva és elmentve!")
